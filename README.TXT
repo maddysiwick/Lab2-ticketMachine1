@@ -17,5 +17,12 @@ Part 2:
 2.  0
 3. the machine always trusts that the user inserted the right ammount of money and has no way to check or recourse 
 if they didn't
-4. the price is different
-5. public class LabClass {} public class Student {}
+5. the price is different
+6. public class LabClass {} public class Student {}
+7. you can't switch the places. You get multiple errors stating that it is expecting different things in those places (ex: <Identifier> expected)
+   I think these errors do clearly indicate that keywords are in the wrong order.
+8. It seems to work fine without the public keyword. There's no errors and you can still create instances and call the methods. 
+9. you can't leave out the class keyword
+10. fields: price,total,balance
+    constructor: TicketMachine()
+    methods: getPrice(),getBalance(),insertMoney(),printTicket()
