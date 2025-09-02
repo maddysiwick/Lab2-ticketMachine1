@@ -26,3 +26,8 @@ if they didn't
 10. fields: price,total,balance
     constructor: TicketMachine()
     methods: getPrice(),getBalance(),insertMoney(),printTicket()
+11. it matches the class name and sets the value of the fields
+12. int,Student,Server
+13. alive,tutor,game
+14. Student,Server,Person,Game
+15. it doesn't matter what order you declare the field variables in
