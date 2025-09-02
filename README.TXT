@@ -31,3 +31,27 @@ if they didn't
 13. alive,tutor,game
 14. Student,Server,Person,Game
 15. it doesn't matter what order you declare the field variables in
+16. yes, it expects a semicolon
+18. Student
+19. 2 of type String and double
+20. the parameters of the cunstructor are very likely to be fields, but it doesnt necessarily represent all of the fields
+21. name = petsName;
+22.public void Date(String month, int day, int year){}
+23. the methods have different names and they return the values of different variables
+24. "How much money has been inserted since the last ticket was printed?"
+25. no, it compiles fine, it does not need to match
+27. missing return statement
+28. printTicket doesnt return anything
+29. no they don't because they instead do other things
+31. score += points;
+32. it is a mutator because it changes the value of one of Student's fields
+33. price -= amount;
+34. public void setAge(int currentAge)
+{
+    age = currentAge;
+    
+}
+35. public void setAlive(boolean isAlive)
+{
+    alive = isAlive;
+}
