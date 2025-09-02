@@ -55,3 +55,11 @@ if they didn't
 {
     alive = isAlive;
 }
+36. the value of price is always 0
+37. My cat has green eyes.
+39. it will print the word price not the value of the variable
+40. this will print that line exactly not the value of any variables
+42. different because the value of the price variable is different
+43. it seems that %d means the value of whatever comes after the comma ( in this case price) and %n probably indicates a new line
+44. it will not prompt you for any values
+46. it is a mutator
