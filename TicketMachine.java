@@ -24,7 +24,7 @@ public class TicketMachine
      * Note that the price must be greater than zero, and there
      * are no checks to ensure this.
      */
-    public TicketMachine()
+    public TicketMachine()//questions 44+45
     {
         price = 1000;
         balance = 0;
@@ -36,7 +36,7 @@ public class TicketMachine
         balance = 0;
         total = 0;
     }
-    public void Empty()
+    public void Empty()//question 46
     {
         total = 0;
     }
