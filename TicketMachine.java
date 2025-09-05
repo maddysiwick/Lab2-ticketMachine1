@@ -88,11 +88,11 @@ public class TicketMachine
         // Clear the balance.
         balance = 0;
     }
-    public void prompt()
+    public void prompt() //question 38
     {
         System.out.println("Please enter the correct amount of money");
     }
-    public void showPrice()
+    public void showPrice()//question 41
     {
         System.out.println("The price of a ticket is " + price + " cents");
     }
